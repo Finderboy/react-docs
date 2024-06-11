@@ -40,8 +40,6 @@
 
 ## 快速入门
 
-![image-20240604091939784](/Users/gxn/Library/Application Support/typora-user-images/image-20240604091939784.png)
-
 ## 1、JSX简介（★★★）
 
 #### 1.1、**JSX简介**
