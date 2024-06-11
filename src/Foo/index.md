@@ -39,6 +39,7 @@
 - [HTML 转 JSX 工具](https://transform.tools/html-to-jsx)
 
 ## 快速入门
+![企业微信截图_507ceffe-1b11-430c-b327-715e3a91be2a.png](..%2F..%2F..%2F..%2FLibrary%2FContainers%2Fcom.tencent.WeWorkMac%2FData%2FDocuments%2FProfiles%2F6E36C9DA7CAED0C73230596D525ECF3A%2FCaches%2FImages%2F2024-06%2Ff61b5007467a851b0458df4c5abfa382_HD%2F%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_507ceffe-1b11-430c-b327-715e3a91be2a.png)
 
 ## 1、JSX简介（★★★）
 
@@ -962,8 +963,6 @@ function ValidationForm() {
 
 export default ValidationForm;
 ```
-
-#### 8.6、 总结
 
 React 提供了灵活的表单处理方式，通过受控组件和非受控组件两种方式管理表单数据。受控组件使得表单元素的值与组件的 state 同步，而非受控组件则直接操作 DOM 元素。React 支持各种表单元素，并且可以方便地实现条件渲染和表单验证
 
